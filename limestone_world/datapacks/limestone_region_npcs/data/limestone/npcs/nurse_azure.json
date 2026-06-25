@@ -1,0 +1,18 @@
+{
+  "hitbox": "player",
+  "names": [
+    "Nurse Azure"
+  ],
+  "interaction": {
+    "type": "none"
+  },
+  "canDespawn": false,
+  "ai": [
+    {
+      "type": "apply_behaviours",
+      "behaviours": [
+        "cobblemon:core"
+      ]
+    }
+  ]
+}

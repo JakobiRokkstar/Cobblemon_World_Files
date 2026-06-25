@@ -1,0 +1,34 @@
+{
+  "hitbox": "player",
+  "names": [
+    "Champion Aurelia"
+  ],
+  "interaction": {
+    "type": "none"
+  },
+  "canDespawn": false,
+  "ai": [
+    {
+      "type": "apply_behaviours",
+      "behaviours": [
+        "cobblemon:core"
+      ]
+    }
+  ],
+  "battleConfiguration": {
+    "canChallenge": true
+  },
+  "skill": 5,
+  "autoHealParty": true,
+  "party": {
+    "type": "simple",
+    "pokemon": [
+      "aegislash level=68",
+      "milotic level=68",
+      "volcarona level=69",
+      "garchomp level=70",
+      "metagross level=70",
+      "dragapult level=72"
+    ]
+  }
+}

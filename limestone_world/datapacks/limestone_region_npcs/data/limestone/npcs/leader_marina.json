@@ -1,0 +1,31 @@
+{
+  "hitbox": "player",
+  "names": [
+    "Leader Marina"
+  ],
+  "interaction": {
+    "type": "none"
+  },
+  "canDespawn": false,
+  "ai": [
+    {
+      "type": "apply_behaviours",
+      "behaviours": [
+        "cobblemon:core"
+      ]
+    }
+  ],
+  "battleConfiguration": {
+    "canChallenge": true
+  },
+  "skill": 4,
+  "autoHealParty": true,
+  "party": {
+    "type": "simple",
+    "pokemon": [
+      "buizel level=24",
+      "lombre level=25",
+      "pelipper level=27"
+    ]
+  }
+}

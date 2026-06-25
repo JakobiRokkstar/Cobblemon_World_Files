@@ -1,0 +1,31 @@
+{
+  "hitbox": "player",
+  "names": [
+    "Leader Juniper"
+  ],
+  "interaction": {
+    "type": "none"
+  },
+  "canDespawn": false,
+  "ai": [
+    {
+      "type": "apply_behaviours",
+      "behaviours": [
+        "cobblemon:core"
+      ]
+    }
+  ],
+  "battleConfiguration": {
+    "canChallenge": true
+  },
+  "skill": 4,
+  "autoHealParty": true,
+  "party": {
+    "type": "simple",
+    "pokemon": [
+      "gloom level=31",
+      "leafeon level=33",
+      "tropius level=34"
+    ]
+  }
+}
