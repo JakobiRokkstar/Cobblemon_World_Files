@@ -1,0 +1,116 @@
+{
+  "uuid": "9d6ace15-1004-4f48-b2ca-8c6d7fd544bb",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "0ae285bc-5afb-4446-bb05-42cf44dc32d5",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 13,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 12,
+    "totalBattleVictoryCount": 15,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 0,
+    "totalPvNBattleVictoryCount": 15,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "normal": 2,
+      "flying": 1,
+      "bug": 1,
+      "poison": 2,
+      "water": 4,
+      "psychic": 1,
+      "grass": 1,
+      "ground": 3,
+      "rock": 2,
+      "ghost": 1,
+      "dragon": 1,
+      "dark": 1,
+      "fighting": 1
+    },
+    "totalDefeatedCounts": {},
+    "aspectsCollected": {
+      "cobblemon:pidgey": [
+        "female"
+      ],
+      "cobblemon:pidgeotto": [
+        "female"
+      ],
+      "cobblemon:pidgeot": [
+        "female"
+      ],
+      "cobblemon:marshtomp": [
+        "male"
+      ],
+      "cobblemon:swampert": [
+        "male"
+      ],
+      "cobblemon:weedle": [
+        "female"
+      ],
+      "cobblemon:kakuna": [
+        "female"
+      ],
+      "cobblemon:aipom": [
+        "male"
+      ],
+      "cobblemon:beedrill": [
+        "male",
+        "female"
+      ],
+      "cobblemon:slowpoke": [
+        "male",
+        "regrown-tail-3",
+        "regrown-tail-2",
+        "regrown-tail-1"
+      ],
+      "cobblemon:bulbasaur": [
+        "male"
+      ],
+      "cobblemon:ivysaur": [
+        "male"
+      ],
+      "cobblemon:venusaur": [
+        "male"
+      ],
+      "cobblemon:rhydon": [
+        "female"
+      ],
+      "cobblemon:horsea": [
+        "female"
+      ],
+      "cobblemon:seadra": [
+        "female"
+      ],
+      "cobblemon:frillish": [
+        "female"
+      ],
+      "cobblemon:hippowdon": [
+        "female"
+      ],
+      "cobblemon:gible": [
+        "female"
+      ],
+      "cobblemon:gabite": [
+        "female"
+      ],
+      "cobblemon:garchomp": [
+        "female"
+      ],
+      "cobblemon:absol": [
+        "female"
+      ],
+      "cobblemon:kabuto": [
+        "male"
+      ],
+      "cobblemon:mienfoo": [
+        "male"
+      ]
+    }
+  }
+}

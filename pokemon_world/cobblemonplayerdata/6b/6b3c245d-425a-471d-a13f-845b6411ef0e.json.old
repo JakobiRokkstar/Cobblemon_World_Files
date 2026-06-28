@@ -1,0 +1,57 @@
+{
+  "uuid": "6b3c245d-425a-471d-a13f-845b6411ef0e",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "7bc52ec0-10d3-4e8e-8545-90c90ae3d3b4",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 5,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 2,
+    "totalBattleVictoryCount": 23,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 5,
+    "totalPvNBattleVictoryCount": 18,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "rock": 1,
+      "water": 2,
+      "psychic": 1,
+      "grass": 1,
+      "fairy": 1,
+      "normal": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:hippowdon": 4,
+      "cobblemon:azurill": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:ivysaur": [
+        "male"
+      ],
+      "cobblemon:venusaur": [
+        "male"
+      ],
+      "cobblemon:omanyte": [
+        "male"
+      ],
+      "cobblemon:hypno": [
+        "male"
+      ],
+      "cobblemon:cottonee": [
+        "male"
+      ],
+      "cobblemon:herdier": [
+        "male"
+      ],
+      "cobblemon:corphish": [
+        "male"
+      ]
+    }
+  }
+}
