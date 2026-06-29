@@ -19,3 +19,4 @@ Fetch the latest world data from the server:
 ```bash
 ./scripts/download_pokemon_world.sh
 ```
+![diagram](images/laptop_github_minecraft_diagram_v2.svg)
